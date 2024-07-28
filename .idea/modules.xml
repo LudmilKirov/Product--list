@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/tinqin_interview_app.iml" filepath="$PROJECT_DIR$/tinqin_interview_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/tinqin_interview_app_android.iml" filepath="$PROJECT_DIR$/android/tinqin_interview_app_android.iml" />
     </modules>
   </component>
 </project>
